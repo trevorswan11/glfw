@@ -90,6 +90,6 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
-# Hazel-specific
+# Lithe-specific
 bin
 bin-int
