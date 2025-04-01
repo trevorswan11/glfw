@@ -551,7 +551,7 @@ GLFWbool _glfwConnectCocoa(int platformID, _GLFWplatform* platform)
         _glfwWaitEventsTimeoutCocoa,
         _glfwPostEmptyEventCocoa,
 
-        // Hazel
+        // Lithe
         _glfwSetWindowTitlebarNull,
 
         _glfwGetEGLPlatformCocoa,

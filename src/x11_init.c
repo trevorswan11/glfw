@@ -1205,7 +1205,7 @@ GLFWbool _glfwConnectX11(int platformID, _GLFWplatform* platform)
         _glfwWaitEventsTimeoutX11,
         _glfwPostEmptyEventX11,
 
-        // Hazel
+        // Lithe
         _glfwSetWindowTitlebarNull,
 
         _glfwGetEGLPlatformX11,
